@@ -1,7 +1,7 @@
 {
-  "name": "vue-funnel-graph-js",
-  "version": "0.1.8",
-  "description": "",
+  "name": "vue-funnel-graph-js-node-sass-6",
+  "version": "0.1.9",
+  "description": "Upgrade original vue-funnel-graph-js to use node-sass 6",
   "main": "dist/vue-funnel-graph.umd.js",
   "module": "dist/vue-funnel-graph.esm.js",
   "unpkg": "dist/vue-funnel-graph.min.js",
@@ -42,9 +42,9 @@
   "dependencies": {
     "@tweenjs/tween.js": "^17.4.0",
     "funnel-graph-js": "^1.4.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^6.0.1",
     "polymorph-js": "^0.2.4",
-    "sass-loader": "^7.3.1"
+    "sass-loader": "^12.3.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.1",

@@ -5,6 +5,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/greghub/vue-funnel-graph-js.svg)
 [![Gitter](https://img.shields.io/gitter/room/greghub/funnel-graph-js.svg)](https://gitter.im/funnel-graph-js/community)
 
+<br>
+
+## Update From Original Version
+This is fixed ***node-sass support node version 16.x*** problem version of the [original vue-funnel-graph-js library](https://github.com/greghub/vue-funnel-graph-js) by [@greghub](https://github.com/greghub).
+
+<br>
 Funnel graph drawing library for Vue.js.
 
 * SVG charts
