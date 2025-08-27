@@ -8,7 +8,13 @@
 <br>
 
 ## Update From Original Version
-This is fixed ***node-sass support node version 16.x*** problem version of the [original vue-funnel-graph-js library](https://github.com/greghub/vue-funnel-graph-js) by [@greghub](https://github.com/greghub).
+This version uses modern **Sass (Dart Sass)** instead of the deprecated node-sass, making it compatible with **Node.js 16+** and **Apple Silicon (ARM64)** machines. Based on the [original vue-funnel-graph-js library](https://github.com/greghub/vue-funnel-graph-js) by [@greghub](https://github.com/greghub).
+
+### Key improvements:
+- ✅ Works with Node.js 16+ and 20+
+- ✅ Compatible with Apple Silicon (ARM64)
+- ✅ Uses maintained Sass instead of deprecated node-sass
+- ✅ Better performance and future-proof
 
 <br>
 Funnel graph drawing library for Vue.js.
