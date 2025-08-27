@@ -1,6 +1,6 @@
 {
   "name": "vue-funnel-graph-js-sass",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Vue.js funnel graph component using modern Sass (Dart Sass) - compatible with Node.js 16+",
   "main": "dist/vue-funnel-graph.umd.js",
   "module": "dist/vue-funnel-graph.esm.js",
@@ -61,6 +61,6 @@
     "rollup-plugin-vue": "^5.1.9",
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11",
-    "webpack": "^5"
+    "webpack": "^4.41.5"
   }
 }
